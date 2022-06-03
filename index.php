@@ -1,4 +1,7 @@
-    <?php include('partials-front/menu.php'); ?>
+<?php
+phpinfo();
+?>
+    <!-- <?php include('partials-front/menu.php'); ?>
 
     <!-- fOOD sEARCH Section Starts Here -->
     <section class="food-search text-center">
@@ -177,4 +180,4 @@
     <!-- fOOD Menu Section Ends Here -->
 
     
-    <?php include('partials-front/footer.php'); ?>
+    <?php include('partials-front/footer.php'); ?> -->
